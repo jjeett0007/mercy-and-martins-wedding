@@ -21,7 +21,7 @@
   --chart-mono: "GT Standard Mono", "Geist Mono", ui-monospace, monospace; /* every number on a chart */
 }
 
-/* @component chart (Chart.js) */
+/* @component chart (Chart.js)  jet*/
 .chart { border: 1px solid var(--stroke-secondary); }
 .chart__cap { font: var(--type-body-strong); color: var(--text-primary); margin-bottom: 14px; }
 .chart__cap small { display: block; margin-top: 2px; font: var(--type-caption); color: var(--text-secondary); }
